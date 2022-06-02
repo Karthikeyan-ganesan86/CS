@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/CS.iml" filepath="$PROJECT_DIR$/.idea/CS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../M.Tech/03 Distributed Computing/Assignment/ChandyMishraHaasAndAlgo-master/.idea/ChandyMishraHaasAndAlgo-master.iml" filepath="$PROJECT_DIR$/../../M.Tech/03 Distributed Computing/Assignment/ChandyMishraHaasAndAlgo-master/.idea/ChandyMishraHaasAndAlgo-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../M.Tech/03 Distributed Computing/Assignment/Version00/.idea/Version00.iml" filepath="$PROJECT_DIR$/../../M.Tech/03 Distributed Computing/Assignment/Version00/.idea/Version00.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../M.Tech/03 Distributed Computing/Assignment/Version01/.idea/Version01.iml" filepath="$PROJECT_DIR$/../../M.Tech/03 Distributed Computing/Assignment/Version01/.idea/Version01.iml" />
+    </modules>
+  </component>
+</project>
